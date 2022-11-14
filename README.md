@@ -6,4 +6,4 @@ More functions will be add to the original work of Nuno Bispo and accessible thr
 
 Documentations:
 
-3.	How to build a regex engine in python | by Lorenzo Felletti | Python in ... (n.d.). Retrieved November 14, 2022, from https://python.plainenglish.io/how-to-build-a-regex-engine-in-python-c06472bdb2f9 
+How to build a regex engine in python | by Lorenzo Felletti | Python in ... (n.d.). Retrieved November 14, 2022, from https://python.plainenglish.io/how-to-build-a-regex-engine-in-python-c06472bdb2f9 
