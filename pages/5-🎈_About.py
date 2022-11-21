@@ -26,7 +26,6 @@ chain_code='''class Blockchain:
         self.new_data = []
         self.chain = []
         self.difficulty = 1
-        self.integrity_lst=[]
         self.__create_genesis_block()
 
         
