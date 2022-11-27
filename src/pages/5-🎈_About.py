@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(layout='wide')
 
 st.title('About [Database Code](https://github.com/DaG0ng/Block_Chain_Database)')
-st.caption('Below is the python code of Block Class')
+st.caption('Below is the Python code of Block Class')
 block_code='''class Block:
     def __init__(self, index, data, timestamp, previous_hash, nonce=0):
         self.index = index
