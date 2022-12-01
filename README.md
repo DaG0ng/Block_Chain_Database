@@ -1,6 +1,6 @@
 # Block_Chain_Database
 ## Using ideas from [Nuno Bispo](https://python.plainenglish.io/building-a-blockchain-in-python-e4a08f8201b6) to build a fully functioning block chain database
-### [Enter the database demo website from here.](https://dag0ng-block-chain-database--home-vm3dm9.streamlit.app/About)
+### [Enter the database demo website from here.](https://dag0ng-block-chain-database-src-home-v7s9mm.streamlit.app/)
 
 The webpage will be build using streamlit which allow users us input block and buttons in UI to manipulate the database without programming skills.
 
